@@ -7,6 +7,6 @@ The Documentation is included separately, containing all the References and impo
 
 The dataset was build from files from Philharmonia UK website, from the MARSYSAS website and from personal recordings. 
 Philharmonia: https://philharmonia.co.uk/resources/sound-samples/
-MARYSAS: http://marsyas.info/downloads/datasets.html
+MARSYSAS: http://marsyas.info/downloads/datasets.html
 
 I do not own any copyright for the project. I made this public post in order to help future students, if they want to choose an audio classifier topic for a project. 
