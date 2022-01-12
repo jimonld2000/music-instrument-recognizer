@@ -61,7 +61,7 @@ def getAccuracy(testSet, predictions):
     return 1.0 * correct / len(testSet)
 
 
-directory = "D:\\Materii\\EA-3\\SEM1\\up\\proj\\music instrument recognition\\InstrumentSamples\\"
+directory = "InstrumentSamples\\"
 f = open("model.dat", "wb")
 i = 0
 
